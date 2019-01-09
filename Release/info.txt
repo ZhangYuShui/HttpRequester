@@ -1,0 +1,12 @@
+Path=
+Overwrite=1
+Shortcut=D, ScorpioHttpRequester\ScorpioHttpRequester.exe, , , ScorpioHttpRequester, 
+Title=ScorpioHttpRequester 模拟http请求工具
+Text
+{
+<p>
+此工具是模拟http请求工具<br>
+官方网站:<br>
+<a href="http://www.fengyuezhu.com/app.php?app=ScorpioHttpRequester" target="_blank">http://www.fengyuezhu.com/app.php?app=ScorpioHttpRequester</a><br>
+</p>
+}

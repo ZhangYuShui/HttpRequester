@@ -1,0 +1,8 @@
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\bin\Debug\ScorpioHttpRequester.exe
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\bin\Debug\ScorpioHttpRequester.pdb
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.FormMain.resources
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.Properties.Resources.resources
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.csproj.GenerateResource.cache
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.csproj.CoreCompileInputs.cache
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.exe
+E:\ScorpioHttpRequester-master\ScorpioHttpRequester-master\ScorpioHttpRequester\obj\Debug\ScorpioHttpRequester.pdb
